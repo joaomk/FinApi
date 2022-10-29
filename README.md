@@ -1,6 +1,6 @@
-FinApi - Financeia
+<h1>FinApi - Financeia</h1>
 
-Requisitos
+<h2>Requisitos</h2>
 
 [X] Deve ser possível criar umma conta <br>
 [X] Deve ser possível buscar o extrato bancário do cliente <br>
@@ -11,7 +11,7 @@ Requisitos
 [] Deve ser possível obter dados da conta do cliente <br>
 [] Deve ser possível deletar uma conta <br>
 
-Regras de negócio
+<h2>Regras de negócio</h2>
 
 [X] Não deve ser possível cadastrar uma conta com CPF já existente <br>
 [X] Não deve ser possível fazer depósito em uma conta não existente <br>
